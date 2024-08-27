@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stripe Pricing Table</title>
+</head>
+<body>
+    <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+    <stripe-pricing-table 
+        pricing-table-id="prctbl_1PsX5QIuRPWiggzyKnaT2yZf"
+        publishable-key="pk_test_51PrtJrIuRPWiggzyrSDeL3t6DhcEBY3rQRIuay2PQAkWXhBmOCQ8eSbunQM0VOwAX1dojOvZyO1U1b8rBjxzjSyK00C2PmjvOG">
+    </stripe-pricing-table>
+</body>
+</html>
